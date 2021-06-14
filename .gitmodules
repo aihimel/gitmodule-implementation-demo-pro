@@ -1,0 +1,3 @@
+[submodule "lib/gitmodule-implementation-demo-free"]
+	path = lib/gitmodule-implementation-demo-free
+	url = git@github.com:aihimel/gitmodule-implementation-demo-free.git
